@@ -11118,3 +11118,9 @@
 "origin" "-432 2192 206"
 "angle" "300"
 }
+// entity 64
+{
+"classname" "info_player_start"
+"origin" "-80 -448 45.0868"
+"angle" "45"
+}
