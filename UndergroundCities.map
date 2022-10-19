@@ -13280,14 +13280,14 @@
 // entity 53
 {
 "classname" "info_player_deathmatch"
-"origin" "720 -160 205.563"
-"angle" "105"
+"origin" "1300 1344 61.563"
+"angle" "64"
 }
 // entity 54
 {
 "classname" "info_player_deathmatch"
-"origin" "-432 2192 206"
-"angle" "300"
+"origin" "-1020 1444 46"
+"angle" "121"
 }
 // entity 55
 {
